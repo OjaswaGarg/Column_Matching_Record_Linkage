@@ -24,6 +24,6 @@ Steps on Encrypted Data-
 
 ## How to run
 - Run the command  ``` pip3 install -r install.txt ``` to install all the dependencies (Python 3).
-  One can also create a conda environment with the help of the record linkage yml file ``` conda env create -f record_linkage.yml ```
+[Optional] One can also create a conda environment with the help of the record linkage yml file ``` conda env create -f record_linkage.yml ```
 - The script, ```Column_Matching_Components.py``` is the final script. The datasets are already provided. 
 - Sample way to run the script via terminal is using the command ```python3 Column_Matching_Components.py recordlinkage1.csv recordlinkage2.csv /mnt/c/Users/ojas1/Downloads/Record_Linkage```
